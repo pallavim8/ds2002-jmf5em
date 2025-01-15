@@ -1,0 +1,4 @@
+    1  history
+    2  cat file5.txt
+    3  cat files/file5.txt
+    4  history > file5.txt

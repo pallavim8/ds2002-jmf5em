@@ -1,0 +1,14 @@
+    1  history
+    2  cat file5.txt
+    3  cat files/file5.txt
+    4  history > file5.txt
+    5  cat files/file5.txt
+    6  ls
+    7  cd files
+    8  cat file5.txt 
+    9  ls -al
+   10  history > file5.txt
+   11  cat file5.txt 
+   12  cat file5.txt | grep "clear"
+   13  clear
+   14  history > file5.txt 
